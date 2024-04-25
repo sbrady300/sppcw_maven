@@ -1,6 +1,6 @@
 package sppcw;
 
-import lombok.AllArgsConstructor; //importing lombok
+import lombok.AllArgsConstructor; //import lombok
 import lombok.Getter;
 import lombok.Setter;
 import sppcw.Rate;
